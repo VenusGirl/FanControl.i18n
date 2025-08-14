@@ -1,4 +1,4 @@
-﻿{
+{
   "About": "정보",
   "AddCustomSensor": "사용자 지정 센서 \"{0}\" 추가",
   "AddFanCurve": "팬 곡선 \"{0}\" 추가",
@@ -9,7 +9,7 @@
   "ColumnsMode": "열 모드",
   "Controls": "제어",
   "CouldNotLoadCache": "캐시 내용을 불러올 수 없습니다.",
-  "CreateNewConfig": "새로운 구성 만들기...",
+  "CreateNewConfig": "새 구성 만들기...",
   "Curves": "곡선",
   "CustomSensors": "사용자 지정 센서",
   "Donate": "기부",
@@ -29,7 +29,7 @@
   "SaveConfigAs": "다른 이름으로 구성 저장...",
   "Settings": "설정",
   "Setup": "설치",
-  "ShowHiddenCards": "숨긴 카드 표시",
+  "ShowHiddenCards": "숨겨진 카드 표시",
   "Speeds": "속도",
   "TemperatureUnitQuestion": "온도 단위 변경을 적용하려면 구성이 저장되고 응용 프로그램 창이 재설정됩니다. 계속하시겠습니까?",
   "Theme": "테마",
